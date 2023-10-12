@@ -1,6 +1,6 @@
 {"name": "Calc",
  "short_name": "Calc",
- "start_url": "/",
+ "start_url": "https://ramonub.github.io/calculator/",
  "background_color": "#6dcdb1",
  "theme_color": "#009578",
  "display": "standalone",
